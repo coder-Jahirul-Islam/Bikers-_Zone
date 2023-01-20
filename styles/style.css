@@ -1,0 +1,20 @@
+.bg-danger-color{
+  background-color:  rgba(240, 70, 113, 0.178)!important;
+ 
+
+}
+.biker-zone-light-red{
+    background-color: rgba(255, 0, 0, 0.19);
+}
+.rating-icon{
+    width: 20px;
+}
+
+.btn-bz-danger{
+    background-color: rgba(234, 82, 115, 0.505);
+    color: white;
+}
+
+.w-25{
+    width: 75% !important;
+}
