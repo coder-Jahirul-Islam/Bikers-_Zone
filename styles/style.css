@@ -1,7 +1,5 @@
 .bg-danger-color{
   background-color:  rgba(240, 70, 113, 0.178)!important;
- 
-
 }
 .biker-zone-light-red{
     background-color: rgba(255, 0, 0, 0.19);
@@ -17,4 +15,10 @@
 
 .w-25{
     width: 75% !important;
+}
+.bg-secondary{
+    background-color: #dfe2e553!important;
+}
+ul li{
+    list-style:none;
 }
